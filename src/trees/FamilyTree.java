@@ -133,6 +133,7 @@ public class FamilyTree
 			addLine(line);
 		br.close();
 		fr.close();
+		
 	}
 	
 	
